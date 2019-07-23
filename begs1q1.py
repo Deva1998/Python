@@ -1,8 +1,8 @@
-n=int(input())
-if(n>0):
+deva=int(input())
+if(deva>0):
     print("Positive")
-elif(n<0):
+elif(deva<0):
     print("Negative")
-elif(n==0):
+elif(deva==0):
     print("Zero")
     
